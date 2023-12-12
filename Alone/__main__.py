@@ -72,7 +72,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text=f"Hᴇʟᴩ & Cᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
+        InlineKeyboardButton(text="⛩ 𝗔𝗕𝗜𝗟𝗜𝗧𝗜𝗘𝗦 ⛩", callback_data="help_back"),
     ],
     [   
         InlineKeyboardButton(text="Dᴇᴠᴇʟᴏᴘᴇʀ", url=f"tg://user?id={OWNER_ID}"),
